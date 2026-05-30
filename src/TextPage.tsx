@@ -1,6 +1,5 @@
 import * as React from "react"
 import {useState} from "react"
-// import { useText } from "./TogglePage"
  
 export const TitleEditor = () => {
   const [text, setText]= useState("Test test")
